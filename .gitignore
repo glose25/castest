@@ -1,0 +1,9 @@
+# Compile source code
+*.class
+# Logs
+*.log
+target/*
+.project
+target/stacktrace.log
+.settings/*
+target-eclipse/*
